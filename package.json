@@ -1,0 +1,19 @@
+{
+  "name": "mynodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manju-maker/myNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manju-maker/myNodeProject/issues"
+  },
+  "homepage": "https://github.com/Manju-maker/myNodeProject#readme"
+}
